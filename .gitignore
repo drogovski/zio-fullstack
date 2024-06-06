@@ -1,0 +1,20 @@
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.metals/
+
+# IDE - VSCode
+.vscode/*
+.history/*
+
+# build tool specific entries
+.bloop
+target
+metals.sbt
+project/project
+/.bsp/*
